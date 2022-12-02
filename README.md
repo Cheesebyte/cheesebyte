@@ -1,16 +1,19 @@
-### Hi there 👋
+# 🧀 About
 
-<!--
-**Cheesebyte/cheesebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance software developer committed to build quality software with the latest technologies.
 
-Here are some ideas to get you started:
+Visit [the website](https://www.cheesebyte.nl) for further information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cheesebyte Banner](cheesebyte-banner-rounded.png)
+
+## 🖐🏻 Who are you?
+
+Head over to my [LinkedIn](https://www.linkedin.com/in/richard-sd/) profile for details.
+
+## 🤙🏻 What languages or frameworks?
+
+Current preference is .NET with C# as the main choice for back-end work and ES7 or TypeScript with React for front-end jobs, but any modern imperative or declarative language is great to learn more about.
+
+## 👋🏻 Why a GitHub profile?
+
+To promote cheese 🧀 and code 🧬. This is where both legacy and recent (public / open source) work goes.
