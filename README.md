@@ -12,7 +12,7 @@ Head over to my [LinkedIn](https://www.linkedin.com/in/richard-sd/) profile for 
 
 ## 🤙🏻 What languages or frameworks?
 
-Current preference is .NET with C# as the main choice for back-end work and ES7 or TypeScript with React for front-end jobs, but any modern imperative or declarative language is great to learn more about.
+Current preference is .NET with C# as the main choice for back-end work and ES7 or TypeScript with React for front-end jobs, but any modern language is great to learn more about.
 
 ## 👋🏻 Why a GitHub profile?
 
