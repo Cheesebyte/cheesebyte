@@ -2,7 +2,7 @@
 
 Full-stack software developer - committed to build quality software with the latest technologies.
 
-Visit [the website](https://www.cheesebyte.nl) for further information.
+Visit [my website](https://www.cheesebyte.nl) for further information.
 
 ![Cheesebyte Banner](cheesebyte-banner-rounded.png)
 
