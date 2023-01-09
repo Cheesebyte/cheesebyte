@@ -1,6 +1,6 @@
 # 🧀 About
 
-Full-stack software developer - committed to build quality software with the latest technologies.
+> Full-stack software developer - committed to build quality software with the latest technologies.
 
 Visit [my website](https://www.cheesebyte.nl) for further information.
 
